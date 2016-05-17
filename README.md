@@ -1,3 +1,3 @@
 # MapReduce
 
-# I Will update my works and all of information while learning mapreduce in next 10 days.
+# I will update my works and all of information while learning mapreduce within 10 days.
